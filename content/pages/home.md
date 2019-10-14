@@ -1,24 +1,10 @@
 ---
-title: Hello World!
-featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+title: ' The Progress Of Personal Success'
+featuredImage: /images/uploads/irony.jpg
+subtitle: '### Critical thinking and problem solving methods'
 meta:
   title: ''
 ---
+##### I never had a childhood that promoted anything involving how to solve every-day problems in the real world. Common sense eluded me during the years in school. I honestly cannot recall any authoritative figures showing any interest on how to "solve a problem". I was under the impression that any assignment was needed to be completed because that grading system reflected a future of some unknown success that is only revealed in pieces based on opinions from people that had no business handling my impressions as I look back on it.
 
-# Netlify CMS + React Starter
-
-A starter project for creating lightning-fast, offline-first websites with [Netlify CMS](https://netlifycms.org) and React.
-
-- **[Create React App](https://github.com/facebookincubator/create-react-app)**
-- **[React Router](https://github.com/ReactTraining/react-router)** for routing
-- **[React Helmet](https://github.com/nfl/react-helmet)** for document titles, descriptions, meta
-- **[React Snapshot](https://github.com/geelen/react-snapshot)** for pre-rendering to static html so it works without Javascript ⭐️
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-
-## See also
-
-[Netlify CMS Docs](https://www.netlifycms.org/docs/)  
-[Netlify CMS Repo](https://github.com/netlify/netlify-cms)  
-[Hyperstatic](https://github.com/Jinksi/hyperstatic) – the same starter project minus Netlify CMS  
-[Gatsby + Netlify CMS Starter (Gatsbro)](https://github.com/Jinksi/gatsbro)
+I was just a "unit". Un-diagnosed "A.D.D" along with unnoticed signs of being "introvert" made it seem like gaining attention or receiving life advice was something only in the movies.

@@ -1,19 +1,26 @@
 ---
-title: About page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+title: 'Why should anyone listen to ME? '
+featuredImage: /images/uploads/why.jpg
+subtitle: '"Never take any article for granted until you read the comments..."'
+section1: >-
+  ## To understand that you cannot trust 
 
-  Netlify CMS works with both `.md` and `.json`.
+  opinions or advice without first understanding yourself is one of the biggest
+  unknown qualities one must experience before deciding how to pursue any
+  future.
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
 
-  [Link test](/images/uploads/isabella juskova.jpg)
 
-  ### Embed Test
+  ### Failure is the BEST form of learning
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+  No one teaches a class in school with any real "lessons". I want to make my
+  readers value these snippets of information posted. I want those that are
+  reading my words to use a different part of the brain. I want you to feel an
+  energy that provokes a discussion with friends and family. My opinion and
+  experience will express a view that causes parents to talk to their kids after
+  soaking up my point of view with questions about how the future is perceived
+  and if you need to help articulate the decisions being modeled by current
+  surroundings.
 section2: |-
   ## This is a Container component
 
@@ -30,3 +37,4 @@ section2: |-
 
   ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
 ---
+

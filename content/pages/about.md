@@ -1,19 +1,15 @@
 ---
 title: About page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+featuredImage: /images/uploads/undraw_about_me_wa29.svg
+subtitle: AABOUt
+section1: >-
+  ## Who am i
 
-  Netlify CMS works with both `.md` and `.json`.
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
+  A funny story, the internet actually doesn't possess enough storage to answer this question...
 
-  [Link test](/images/uploads/isabella juskova.jpg)
 
-  ### Embed Test
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+  ![process](/images/uploads/undraw_thought_process_67my.svg "thought-process")
 section2: |-
   ## This is a Container component
 
